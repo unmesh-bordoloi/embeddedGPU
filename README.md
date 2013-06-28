@@ -8,3 +8,5 @@ The code has been tested on Vivante GC2000, NVIDIA Fermi M2050, NVIDIA Quadro NV
 Please comment or uncomment pre-processing directives while changing platforms or swithcing operatins systems.
 
 The code is not yet declared to be stable. The code for pattern matching has known issues.
+
+Acknowledgement: Arian Maghazeh for authorship
