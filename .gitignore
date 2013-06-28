@@ -5,6 +5,7 @@
 log.txt
 gettime.h
 gettime.cpp
+AES/AES/InputData
 
 # Visual Studio Projects
 *.vcxproj
