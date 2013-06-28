@@ -8,6 +8,8 @@ gettime.cpp
 
 # Visual Studio Projects
 *.vcxproj
+*.filters
+*.sln
 
 
 # User-specific files
