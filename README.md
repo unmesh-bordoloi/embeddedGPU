@@ -1,6 +1,6 @@
-GEMs group at Linkšping University
+GEMs group at Linkoeping University
 ==========
-This repository contains material created at the GEMs (Gpu-based hEterogeneous systeMs) research group at Linkšping University. 
+This repository contains material created at the GEMs (Gpu-based hEterogeneous systeMs) research group at Linkoeping University. 
 
 The folder RTAS2014 contains the input files as well as results for some experiments reported in the submitted version of the paper.
 
